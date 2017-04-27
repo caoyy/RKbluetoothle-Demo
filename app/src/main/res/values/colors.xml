@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <drawable name="bg1">#EBEBEB</drawable>
+    <color name="holo_gray_light">#33999999</color>
+
+    <color name="text">#dd000000</color>
+    <color name="secondary_text">#89000000</color>
+    <color name="hint_text">#4c000000</color>
+    <color name="dividers">#1e000000</color>
+
+    <color name="new_blue">#5ED1E9</color>
+    <color name="new_purple">#CB5DE9</color>
+    <color name="new_red">#F95975</color>
+    <color name="new_green">#3BD29C</color>
+    <color name="new_dark_blue">#43B0F6</color>
+    <color name="new_orange">#FBC347</color>
+    <color name="new_dark_orange">#FB8354</color>
+</resources>

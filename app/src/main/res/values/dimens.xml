@@ -1,0 +1,32 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="widget_vertical_margin">8dp</dimen>
+
+    <dimen name="dialog_padding">24dp</dimen>
+    <dimen name="horizontal_padding">16dp</dimen>
+    <dimen name="widget_margin">8dp</dimen>
+
+    <dimen name="body_txt_size">@dimen/subhead</dimen>
+
+    <!--控件大小-->
+    <dimen name="vertical_height_48">48dp</dimen>
+    <dimen name="vertical_height_56">56dp</dimen>
+    <dimen name="vertical_height_60">60dp</dimen>
+    <dimen name="vertical_height_72">72dp</dimen>
+
+    <!--文字大小-->
+    <dimen name="display4">112sp</dimen>
+    <dimen name="display3">56sp</dimen>
+    <dimen name="display2">45sp</dimen>
+    <dimen name="display1">34sp</dimen>
+    <dimen name="headline">24sp</dimen>
+    <dimen name="title">20sp</dimen>
+    <dimen name="subhead">18sp</dimen>
+    <dimen name="subhead1">16sp</dimen>
+    <dimen name="body">14sp</dimen>
+    <dimen name="caption">12sp</dimen>
+    <dimen name="menu">14sp</dimen>
+    <dimen name="button">14sp</dimen>
+</resources>
